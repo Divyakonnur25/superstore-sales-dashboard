@@ -43,8 +43,7 @@ This project was built as part of my **Data Science Internship at KodNest**, app
 ## 📊 Dashboard Preview
 
 > Built with Power BI — includes KPI cards, bar charts, treemap, line chart, and interactive slicers for year and region.
-
-![Dashboard](Screenshot%20(219).png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ---
 
