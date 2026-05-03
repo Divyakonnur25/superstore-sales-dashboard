@@ -13,7 +13,7 @@ Sales performance dashboard built with Python, Excel &amp; Power BI.
 
 ## 📌 Project Overview
 
-Analyzed **9,994 sales transactions** from a US Superstore dataset to uncover revenue trends, top-performing customer segments, regional patterns, and shipping insights.
+Analyzed **9,800 sales transactions** from a US Superstore dataset to uncover revenue trends, top-performing customer segments, regional patterns, and shipping insights.
 
 This project was built as part of my **Data Science Internship at KodNest**, applying end-to-end data analysis skills — from raw data cleaning to an interactive business dashboard.
 
