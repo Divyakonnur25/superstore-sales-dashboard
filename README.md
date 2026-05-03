@@ -2,7 +2,7 @@
 Sales performance dashboard built with Python, Excel &amp; Power BI.
 # 🛒 Superstore Sales Performance Dashboard
 
-![Dashboard Preview](Screenshot%20(219).png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
 [![Python](https://img.shields.io/badge/Python-Pandas-blue?style=flat&logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat&logo=powerbi)](https://powerbi.microsoft.com/)
